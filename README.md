@@ -1,4 +1,4 @@
-# WeatherNow 🌦️
+# skyra 🌦️
 
 A full-stack weather web application built with Django REST Framework and React, consuming live data from the OpenWeatherMap API.
 
